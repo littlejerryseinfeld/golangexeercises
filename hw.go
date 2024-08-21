@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func hw() {
 	str := "world"
 	fmt.Printf("hi %s\n", str)
 }
